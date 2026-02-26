@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vaishnavi</h1>
 
-<!--
-**Vaishnavi-kajuluri/Vaishnavi-kajuluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;MERN+Stack+Developer;Problem+Solver+%7C+Java+%7C+DSA+Enthusiast;Building+Scalable+Web+Applications" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🎓 Computer Science Student from India  
+- 💻 Passionate about Full Stack Development (MERN)  
+- 🧠 Strong in Java & Data Structures  
+- 🚀 Preparing for Software Engineer roles  
+- 🌱 Currently learning System Design & Advanced Backend  
