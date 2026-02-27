@@ -53,7 +53,7 @@
 #### ☁️ Concepts
 - **REST APIs (Representational State Transfer)** – Communication between client & server  
 - **JSON (JavaScript Object Notation)** – Data format for APIs  
-- **Full Stack Development** – Working on both frontend & backend  
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,reactnative,html,css,js,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,androidstudio,postman" />
 </p>
