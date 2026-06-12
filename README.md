@@ -21,7 +21,7 @@
 ---
 
 #### 🎨 Frontend Development
-- **HTML ** – Structure of web pages  
+- **HTML** – Structure of web pages  
 - **CSS** – Styling and layout  
 - **Tailwind CSS** – Utility-first CSS framework for fast UI design  
 - **JavaScript** – Programming language for web interactivity  
