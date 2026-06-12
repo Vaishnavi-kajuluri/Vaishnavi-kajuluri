@@ -53,7 +53,38 @@
 #### ☁️ Concepts
 - **REST APIs** – Communication between client & server  
 - **JSON** – Data format for APIs  
+## 🚀 Featured Projects
 
+### 📱 Kroodl
+A social networking platform that enables users to connect, share content, interact with communities, and build meaningful connections.
+- User authentication and profile management
+- Content sharing and engagement features
+- Real-time interactions and notifications
+- Scalable backend architecture
+
+**Tech Stack:** React Native, Node.js, Express.js, MongoDB
+
+---
+
+### 🏡 LandsTime
+A real estate platform for browsing, listing, and managing land and property information.
+- Property listing and search
+- Detailed property information
+- User account management
+- Responsive mobile experience
+
+**Tech Stack:** React Native, Node.js, Express.js, MongoDB
+
+---
+
+### 🌐 Pint Global
+A platform designed to connect users with global opportunities, services, and business networks.
+- User authentication and profile management
+- Business and service discovery
+- Secure and scalable backend
+- API-driven architecture
+
+**Tech Stack:** React Native, Node.js, Express.js, MongoDB
 
 ## 📊 GitHub Stats
 
