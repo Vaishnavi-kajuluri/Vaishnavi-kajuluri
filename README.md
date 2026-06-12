@@ -78,13 +78,14 @@ A real estate platform for browsing, listing, and managing land and property inf
 ---
 
 ### 🌐 Pint Global
-A platform designed to connect users with global opportunities, services, and business networks.
-- User authentication and profile management
-- Business and service discovery
-- Secure and scalable backend
-- API-driven architecture
+A corporate export-import business website designed to establish a global online presence and connect with international clients.
 
-**Tech Stack:** React Native, Node.js, Express.js, MongoDB
+- Company and service showcase
+- Product catalog and business information
+- Inquiry and contact management
+- Responsive and SEO-friendly design
+
+**Tech Stack:** React, Typescript
 
 ## 📊 GitHub Stats
 
